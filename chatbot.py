@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "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"
+API_KEY = "Your API key here"
 API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 def chat(instruction, text):
