@@ -1,7 +1,7 @@
 import requests
 import pyttsx3
 
-API_KEY = "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"
+API_KEY = "Grok_Api_Key"
 API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 engine = pyttsx3.init()
